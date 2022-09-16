@@ -1,0 +1,182 @@
+.body
+{
+    margin:0;
+    padding:0;
+    background-size:cover;
+    background-position:center;
+    font-family:sans-serif;
+    
+}
+.login
+{
+    width:320px;
+    height:500px;
+    background:green;
+    color:#07052d;
+    top:850%;
+    left:50%;
+    position:absolute;
+    transform:translate(-50%,-50%);
+    box-sizing:border-box;
+    padding:90px 30px;
+
+}
+
+.h1
+{
+    margin:0;
+    padding:0 0 20px;
+    text-align:center;
+    font-size:22px;
+}
+.login p{
+    margin:0;
+    padding:0;
+    font-weight:bold;
+
+}
+.login input
+{
+    width:100%;
+    margin-bottom:20px;
+
+}
+.login input[type="text"],input[type="password"]
+{
+   border:none;
+   border-bottom:1px solid;
+   background:transparent;
+   outline:none;
+   height:40px;
+   color:#8990f3;
+   font-size:16px;
+   }
+  
+  .login input[type="submit"]
+  {
+      border:none;
+      outline:none;
+      height:40px;
+      color: WHITE;
+      background: #FF3B3F;
+      font-size:18px;
+  } 
+
+  .login input[type="submit"]:hover
+  {
+     cursor:pointer;
+     background:#e8eaf1;
+     color:#000;
+      
+          
+  }
+
+  .login a {
+     text-decoration:none;
+     font-size:20px;
+     line-height:20px;
+     color:#3b1d3e;
+     
+  }
+
+/*   Part 2  is active  CAD*/
+
+  .body
+{
+    margin:0;
+    padding:0;
+    background-size:cover;
+    background-position:center;
+    font-family:sans-serif;
+    
+}
+.login
+{
+    width:320px;
+    height:450px;
+    background:#bad5e8;
+    color:#07052d;
+    top:57%;
+    left:50%;
+    position:absolute;
+    transform:translate(-50%,-50%);
+    box-sizing:border-box;
+    padding:90px 30px;
+    border-radius: 25px;
+}
+.avathar{
+    width:120px;
+    height:100px;
+    border-radius:50%;
+    position:inherit;
+    top:0px;
+    left:calc(90% -50px);
+    padding:5px 70px;
+}
+.h1
+{
+    margin:0;
+    padding:0 0 20px;
+    text-align:center;
+    font-size:22px;
+}
+.login p{
+    margin:0;
+    padding:0;
+    font-weight:bold;
+
+}
+.login input
+{
+    width:100%;
+    margin-bottom:20px;
+
+}
+.login input[type="text"],input[type="password"]
+{
+   border:none;
+   border-bottom:1px solid;
+   background:transparent;
+   outline:none;
+   height:40px;
+   color:#8990f3;
+   font-size:16px;
+   }
+  
+  .login input[type="submit"]
+  {
+      border:none;
+      outline:none;
+      height:40px;
+      background:#2583fb;
+      color:#fff;
+      font-size:18px;
+  } 
+
+  .login input[type="submit"]:hover
+  {
+     cursor:pointer;
+     background:#e8eaf1;
+     color:#000;
+      
+          
+  }
+
+  .login a {
+     text-decoration:none;
+     font-size:20px;
+     line-height:20px;
+     color:#3b1d3e;
+     
+  }
+  .button1{
+    background-color: green;
+    border:none;
+    color:#171515;
+    padding:8px 40px ;
+    text-align:center;
+    text-decoration:none;
+    display :inherit;
+    font-size:26px;
+    border-radius: 25px;
+}

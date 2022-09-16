@@ -1,0 +1,34 @@
+
+ body {
+       background-image: url("images/image.jpg");
+       background-size: 1400px 900px;
+       background-repeat:no-repeat;
+      
+}
+h1 {
+   background-color:#ffffff;
+   color:#ff00ff;
+   text-align: center;
+   font-size: 65px;
+}
+.navbar {
+       width:100%;
+      background-color:green;
+       overflow: auto;
+      background-repeat: no-repeat;
+}
+.navbar a {
+         float: left;
+         padding: 15px;
+         color:white;
+         text-decoration: none;
+         font-size: 20px;
+         width: 20%;
+         text-align: center;
+}
+.navbar a.active {
+   background-color: gray;
+}
+.navbar a.link{
+   background-color: pink;
+}
